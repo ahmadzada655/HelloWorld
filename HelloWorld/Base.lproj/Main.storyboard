@@ -37,7 +37,7 @@
                                 </connections>
                             </button>
                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hello-Petla" translatesAutoresizingMaskIntoConstraints="NO" id="T0q-cd-WCJ">
-                                <rect key="frame" x="26" y="20" width="322" height="128"/>
+                                <rect key="frame" x="26" y="69" width="322" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
